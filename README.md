@@ -1,6 +1,6 @@
 ### set-interval-non-concurrent
 
-Simple async execution interval that guarantees only one instance of your function will be running at any moment - aka non concurrency.
+Simple async execution interval that guarantees only one instance of your function will be running at any moment - aka no concurrency.
 
 Install like this:
 
