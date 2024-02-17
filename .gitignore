@@ -1,0 +1,14 @@
+node_modules
+*.env
+.idea
+dist
+local
+logs
+errors
+debugging
+/metrics
+/data
+nohup*
+config.json
+/cache
+/backup
